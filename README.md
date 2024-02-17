@@ -1,4 +1,3 @@
 # belajar-kolaborasi
-* perubahan pertama
-* perubahan ke 2
-* perubahan ke 3
+Belajar GitHub di dicoding sangat menyenangkan!<br>
+Mendokumentasikan dengan GitHub menjadi lebih mudah.
