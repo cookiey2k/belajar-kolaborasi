@@ -1,2 +1,4 @@
 # belajar-kolaborasi
-commit pertama
+- commit pertama
+- commit ke dua
+
